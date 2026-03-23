@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark light">
+  <title>Presentation</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <!-- Background gradient layers (fixed, behind slides) -->
+  <div class="bgLayer aurora a1" aria-hidden="true"></div>
+  <div class="bgLayer aurora a2" aria-hidden="true"></div>
+  <div class="bgLayer grain" aria-hidden="true"></div>
+
+  <header id="topbar" class="topbar" role="banner">
+    <div class="barInner">
+      <div class="brand">
+        <span class="dot" aria-hidden="true"></span>
+        <strong id="brandTitle">Deck</strong>
+      </div>
+      <nav class="controls" aria-label="Presentation controls">
+        <button id="prevBtn" type="button" class="navBtn" title="Previous slide" aria-label="Previous slide">Prev</button>
+        <button id="nextBtn" type="button" class="navBtn primary" title="Next slide" aria-label="Next slide">Next</button>
+        <div class="divider" aria-hidden="true"></div>
+        <button id="exportPdfBtn" type="button" class="navBtn ghost" title="Export to PDF" aria-label="Export to PDF">Export PDF</button>
+      </nav>
+    </div>
+    <div id="topProgress" aria-hidden="true"><div id="topProgressBar"></div></div>
+  </header>
+
+  <nav id="sideDots" aria-label="Slide progress"></nav>
+
+  <main id="deck" class="deck" role="region" aria-label="Slides">
+    <div id="slides" class="slides"></div>
+  </main>
+
+  <!-- Off-screen PDF capture stage -->
+  <div id="pdfStage" aria-hidden="true"></div>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>

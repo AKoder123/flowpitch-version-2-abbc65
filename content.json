@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "deckId": "version_2",
+    "title": "Stephen Rando",
+    "theme": "Blue"
+  },
+  "slides": [
+    {
+      "type": "title",
+      "headline": "Stephen Rando",
+      "subheadline": "Executive technology leader — 17+ years at ANZ"
+    },
+    {
+      "type": "section",
+      "headline": "Proven Enterprise Track Record"
+    },
+    {
+      "type": "content",
+      "headline": "Large-Scale Technology Leadership",
+      "bullets": [
+        "Led enterprise programs with 250+ people",
+        "Budgets exceeding $100m, delivery certainty",
+        "End-to-end ANZ Wealth Separation delivery",
+        "Navigated heavy regulatory scrutiny",
+        "Maintained customer and operational continuity"
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Cloud, Vendors, and Platforms"
+    },
+    {
+      "type": "content",
+      "headline": "Cloud, Vendor & Platform Delivery",
+      "bullets": [
+        "Led $125m data centre transformation",
+        "Hybrid cloud enabling scalable infrastructure",
+        "Managed IBM, Cisco, strategic vendors",
+        "Delivered contractual outcomes and quality",
+        "Integrated enterprise data and infrastructure",
+        "Enabled future platform modernisation"
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Program Management and Governance"
+    },
+    {
+      "type": "content",
+      "headline": "Program Management, Planning & Prioritisation",
+      "bullets": [
+        "Own roadmaps across 57 initiatives",
+        "Manage dependencies and sequencing",
+        "Balance delivery trade-offs effectively",
+        "Govern milestones, risks, and issues",
+        "Transparent execution progress reporting",
+        "Disciplined planning and prioritisation"
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Financial Acumen and Analytical Insight",
+      "left": {
+        "title": "Financial Acumen",
+        "bullets": [
+          "Governed multi-million technology programs",
+          "$137m Wealth Separation; $975m+ benefits",
+          "Rigorous budget tracking and controls",
+          "Investment prioritisation discipline",
+          "Benefits realisation accountability"
+        ]
+      },
+      "right": {
+        "title": "Analytical Insight",
+        "bullets": [
+          "Translate regulation into executable outcomes",
+          "Data-led decisions and measurement",
+          "Reporting frameworks drive prioritisation",
+          "Enable faster, better executive decisions"
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "headline": "Leadership and Influence"
+    },
+    {
+      "type": "content",
+      "headline": "Collaboration, Communication & Trusted Advisory",
+      "bullets": [
+        "Align Risk, Technology, Business, partners",
+        "Lead executive governance forums",
+        "Influence C-suite decision-making",
+        "Build high-performing teams",
+        "Clear, structured communication",
+        "Lead change with clarity and energy"
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Transformations Led from the Front"
+    },
+    {
+      "type": "content",
+      "headline": "Transformations and Modernisation",
+      "bullets": [
+        "Enterprise architecture leadership",
+        "Regulatory and divestment programs",
+        "Cloud and infrastructure transformation",
+        "Legacy decommissioning at scale",
+        "Platform uplift and modernisation"
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Leading the Stress Testing Program"
+    },
+    {
+      "type": "content",
+      "headline": "Ready to Lead Stress Testing Delivery",
+      "bullets": [
+        "Modernise ANZ stress testing capability",
+        "Strengthen governance and controls",
+        "Enable scalable, forward-looking insights",
+        "Cover credit and climate portfolios",
+        "Deliver with end-to-end accountability"
+      ]
+    },
+    {
+      "type": "closing",
+      "headline": "Thank you",
+      "subheadline": "Ready to partner on ANZ Stress Testing"
+    }
+  ]
+}
